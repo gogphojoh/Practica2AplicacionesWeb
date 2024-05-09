@@ -1,0 +1,40 @@
+header{
+    display: flex;
+    width: 750px;
+    height: 250px;
+}
+.banner{
+    width: 500px;
+    height: 250px;
+    background-color: #00FF00;
+}
+.logo{
+    width: 250px;
+    height: 250px;
+    background-color: 	#808000;
+}
+nav{
+    width: 750px;
+    height: 50px;
+    background-color: #66CDAA;
+}
+main{
+    display: flex;
+    width: 750px;
+    height: 400px;
+}
+.article{
+    width: 450px;
+    height: 400px;
+    background-color: #008080;
+}
+.aside{
+    width: 300px;
+    height: 400px;
+    background-color: #B0C4DE;
+}
+footer{
+    width: 750px;
+    height: 50px;
+    background-color: 	#DAA520;
+}
